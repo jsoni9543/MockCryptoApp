@@ -3,7 +3,7 @@
 1. Created a clean MVVM architecture for coinPaprika open API to display Coin List
 2. User can click on CoinList item and it will navigate user to next screen.
 3. TechStack - RestAPI, Retrofit, Gson, DaggerHilt, Jetpack Compose, Compose Navigation
-4. Mock Application just for Educational Purpose
+
 
 Screenshot
 
